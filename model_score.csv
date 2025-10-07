@@ -1,0 +1,9 @@
+Model Number,Model,Accuracy score Vlaidation,Accuracy score Test,Precision Score Val,Precision Score test,Recall val,Recall test,F1 score val,F1 score tset
+model1,LogisticRegression,79%,80%,63%,66%,51%,56%,56%,60%
+model2,Decision Tree,80%,79%,64%,62%,59%,56%,61%,59%
+model3 ,Random Forest,80%,79%,64%,62%,59%,56%,61%,59%
+model3_1,Random Forest(n=2000),99%,83%,99%,73%,99%,60%,99%,66%
+model2_1,Decision Tree (max_depth=10),87%,77%,80%,59%,68%,52%,73%,55%
+model4,Gradient Boosting,82%,80%,70%,67%,55%,54%,61%,60%
+model5,XGBoost,93%,81%,90%,67%,85%,61%,87%,64%
+model6,KNN,83%,78%,71%,61%,62%,56%,66%,58%
